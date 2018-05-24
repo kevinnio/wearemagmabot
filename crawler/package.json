@@ -4,7 +4,7 @@
   "description": "Crawler app that looks for hashtags in social media.",
   "author": "Kevin Perez <kevin.perez@magmalabs.io>",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.3"
+  "scripts": {
+    "start": "node app.js"
   }
 }
