@@ -1,0 +1,10 @@
+{
+  "name": "wearemagmabot-crawler",
+  "version": "1.0.0",
+  "description": "Crawler app that looks for hashtags in social media.",
+  "author": "Kevin Perez <kevin.perez@magmalabs.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
